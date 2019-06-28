@@ -1,0 +1,15 @@
+body {
+    -webkit-appearance: none;
+}
+.central {
+    margin-top: 10%;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.botao {
+    margin: 10px 50%;
+    transform: translate(-50%);
+}
